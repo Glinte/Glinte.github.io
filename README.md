@@ -1,2 +1,2 @@
-# Glinte.github.io
-First Personal Website for experimentation and learning
+# What is this website?
+It is going to be my personal website, but right now it is just a simple html site for me to learn git.
